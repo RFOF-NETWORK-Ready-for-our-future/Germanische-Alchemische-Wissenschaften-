@@ -5,8 +5,69 @@ Germanische &amp; Alchemische Elexiere Pflanzen Kunde und vieles mehr wie Runen 
 
 Germanische & Alchemische Wissenschaften (B.1)
 
+Die germanische Mythologie beschreibt eine faszinierende Kosmologie, in der die Welt aus neun unterschiedlichen Welten besteht, die alle durch den Weltenbaum **Yggdrasil** miteinander verbunden sind. Yggdrasil ist der zentrale und heilige Baum der germanischen Mythologie. Seine Zweige erstrecken sich über alle Welten, und seine Wurzeln reichen tief in die geheimnisvollen Bereiche der Existenz. Hier ist eine umfassende Übersicht:
+
+---
+
+### **Yggdrasil – Der Weltenbaum**
+Yggdrasil, die Esche, ist das Herz der germanischen Kosmologie. Sie verkörpert das Leben selbst, den Kreislauf von Geburt, Tod und Wiedergeburt. Die drei Hauptwurzeln von Yggdrasil erstrecken sich zu verschiedenen Welten und Brunnen:
+1. Zum Brunnen **Urdarbrunn** in **Asgard**, wo die **Norns** (Urd, Verdandi, Skuld) das Schicksal weben.
+2. Zum **Mimisbrunn** in **Jotunheim**, der Quelle der Weisheit, bewacht von **Mimir**.
+3. Zum **Hvergelmir** in **Niflheim**, aus dem alle Flüsse entspringen und der von der Schlange **Nidhöggr** bewacht wird.
+
+Unter Yggdrasil leben verschiedene Kreaturen, darunter:
+- **Ratatoskr**, das Eichhörnchen, das Nachrichten zwischen dem Adler auf der Spitze Yggdrasils und der Schlange **Nidhöggr** übermittelt.
+- **Hirsche** wie **Dainn**, **Dvalinn**, **Duneyrr** und **Durathror**, die an den Blättern des Baumes nagen.
+
+---
+
+### **Die neun Welten**
+
+#### **1. Asgard – Die Welt der Götter**
+Asgard ist die Heimat der Asen, der Hauptgötter der germanischen Mythologie. Hier befinden sich:
+- **Walhall**, Odins Halle der gefallenen Krieger.
+- Die **Bifrost-Brücke**, der Regenbogen, der Asgard mit Midgard verbindet, bewacht von **Heimdall**.
+- Bewohner: **Odin**, **Frigg**, **Thor**, **Baldr**, **Tyr**, **Idunn** (Hüterin der Äpfel der Jugend), **Bragi** (Gott der Dichtkunst).
+
+#### **2. Vanaheim – Heimat der Vanen**
+Die Vanen sind eine ältere Gruppe von Göttern, die für Fruchtbarkeit und Wohlstand stehen. **Freyr**, **Freya** und **Njörd** sind prominente Bewohner. Die Asen und Vanen führten einen Krieg, der schließlich mit einem Austausch von Geiseln und Frieden endete.
+
+#### **3. Midgard – Die Welt der Menschen**
+Midgard ist die menschliche Welt, umgeben vom **Weltmeer**, in dem **Jörmungandr**, die Midgardschlange, lebt. Midgard wird von den Asen geschützt und ist durch die Bifrost-Brücke mit Asgard verbunden.
+
+#### **4. Jotunheim – Heimat der Riesen**
+Die Riesen (Jotunen) sind die Erzfeinde der Götter. Sie leben in Jotunheim, einer rauen, wilden Welt. Bedeutende Riesen sind:
+- **Thrym**, der Thors Hammer stahl.
+- **Hrungnir**, der von Thor getötet wurde.
+- **Angrboda**, die Mutter von **Fenrir**, **Jörmungandr** und **Hel**.
+
+#### **5. Alfheim – Heimat der Lichtalben**
+Die Lichtalben sind wunderschöne, lichtvolle Wesen, die mit Natur und Magie verbunden sind. Sie werden oft mit Elfen verglichen. **Freyr** ist ihr Herr.
+
+#### **6. Svartalfheim/Nidavellir – Heimat der Zwerge**
+Die Zwerge sind Meisterschmiede und Handwerker. In ihren Höhlen schmieden sie magische Artefakte wie:
+- **Mjölnir**, Thors Hammer.
+- **Gungnir**, Odins Speer.
+- **Brisingamen**, Freyjas Halskette.
+Berühmte Zwerge sind **Brokk**, **Eitri**, **Sindri** und **Andvari**.
+
+#### **7. Niflheim – Welt des Eises und Nebels**
+Niflheim ist eine uralte, frostige Welt. Hier entspringt der Brunnen **Hvergelmir**, aus dem alle Flüsse fließen. Die Schlange **Nidhöggr** lebt hier und nagt an einer der Wurzeln Yggdrasils.
+
+#### **8. Muspelheim – Welt des Feuers**
+Muspelheim ist das Reich der Feuerriesen, angeführt von **Surt**, der im Ragnarök die Welt in Flammen setzen wird. Es ist ein lebensfeindlicher, brennender Ort.
+
+#### **9. Helheim – Die Unterwelt**
+Helheim ist die Welt der Toten, regiert von **Hel**, der Tochter von Loki. Hier kommen jene hin, die eines natürlichen Todes sterben. Helheim wird oft als düster und kalt beschrieben, bewacht von der Schlange **Garm**.
+
+---
+
+### **Verbindung zur Mythologie**
+
+Die neun Welten sind nicht nur physisch durch Yggdrasil verbunden, sondern auch thematisch: Sie repräsentieren Aspekte des Lebens und kosmische Prinzipien. Der Baum selbst steht für das Gleichgewicht und die Wechselwirkungen zwischen den Welten. Die Mythen, die um Yggdrasil und die Welten kreisen, wie Ragnarök oder die Schöpfungsgeschichte, vermitteln die enge Verbindung zwischen den Göttern, Menschen und der Natur.
 
 --
+
 ## ** Das ältere Furthac **
 
 Runen der germanischen Mythologie und des älteren Futhark, ihre Bedeutungen und sogar ihre symbolischen oder magischen Anwendungen. Die Runenschrift war ein heiliges Schriftsystem und wurde sowohl für die Kommunikation als auch für spirituelle Zwecke verwendet.
@@ -85,6 +146,8 @@ Das angelsächsische Futhorc ist eine Erweiterung des älteren Futhark und wurde
 Das Futhorc war besonders flexibel und wurde für Inschriften auf Waffen, Schmuck und anderen Gegenständen verwendet.
 
 ---
+
+## ** Elixiere zum einnehmen & Pasteten zum auftragen **
 
 ### ** Rezept für das Gehirn-stärkende Elixier**
 
