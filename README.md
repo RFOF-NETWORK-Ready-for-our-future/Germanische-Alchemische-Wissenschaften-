@@ -7,7 +7,7 @@ Germanische & Alchemische Wissenschaften (B.1)
 
 
 --
-
+## ** Das ältere Furthac **
 
 Runen der germanischen Mythologie und des älteren Futhark, ihre Bedeutungen und sogar ihre symbolischen oder magischen Anwendungen. Die Runenschrift war ein heiliges Schriftsystem und wurde sowohl für die Kommunikation als auch für spirituelle Zwecke verwendet.
 
