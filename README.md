@@ -32,6 +32,84 @@ Rune Name Bedeutung
 ᛞ.      Dagaz.    Tageslicht, Klarheit
 ᛟ.      Othala.  Heimat, Erbe
 
+
+Runen der germanischen Mythologie und des älteren Futhark, ihre Bedeutungen und sogar ihre symbolischen oder magischen Anwendungen. Die Runenschrift war ein heiliges Schriftsystem und wurde sowohl für die Kommunikation als auch für spirituelle Zwecke verwendet.
+
+Hier sind die Runen des älteren Futhark (bestehend aus 24 Zeichen) mit ihren jeweiligen Namen und Bedeutungen:
+
+| Rune  | Name     | Bedeutung                  |
+|-------|----------|----------------------------|
+| ᚠ    | Fehu     | Wohlstand, Reichtum        |
+| ᚢ    | Uruz     | Stärke, Vitalität          |
+| ᚦ    | Thurisaz | Schutz, Macht der Giganten |
+| ᚨ    | Ansuz    | Göttliche Inspiration      |
+| ᚱ    | Raido    | Reisen, Bewegung           |
+| ᚲ    | Kenaz    | Wissen, Kreativität        |
+| ᚷ    | Gebo     | Geschenk, Partnerschaft    |
+| ᚹ    | Wunjo    | Freude, Harmonie           |
+| ᚺ    | Hagalaz  | Veränderung, Herausforderungen |
+| ᚾ    | Naudhiz  | Notwendigkeit, Ausdauer    |
+| ᛁ    | Isa      | Ruhe, Konzentration        |
+| ᛃ    | Jera     | Jahreskreis, Ernte         |
+| ᛇ    | Eihwaz   | Schutz, Transformation     |
+| ᛈ    | Pertho   | Schicksal, Geheimnis       |
+| ᛉ    | Algiz    | Schutz, Verbindung zu den Göttern |
+| ᛋ    | Sowilo   | Erfolg, Sonne              |
+| ᛏ    | Tiwaz    | Ehre, Gerechtigkeit        |
+| ᛒ    | Berkano  | Wachstum, Geburt           |
+| ᛖ    | Ehwaz    | Partnerschaft, Fortschritt |
+| ᛗ    | Mannaz   | Menschheit, Gemeinschaft   |
+| ᛚ    | Laguz    | Wasser, Intuition          |
+| ᛜ    | Ingwaz   | Fruchtbarkeit, Potenzial   |
+| ᛞ    | Dagaz    | Tageslicht, Klarheit       |
+| ᛟ    | Othala   | Heimat, Erbe               |
+
+
+Die drei bekanntesten Runenalphabeten der germanischen Mythologie sind das **ältere Futhark**, das **jüngere Futhark** und das **angelsächsische Futhorc**. Hier ist eine Übersicht über die beiden weiteren Alphabete neben dem älteren Futhark:
+
+---
+
+### **Das jüngere Futhark**
+Das jüngere Futhark entstand aus dem älteren Futhark und wurde während der Wikingerzeit (ca. 800–1100 n. Chr.) verwendet. Es besteht aus **16 Runen**, da einige Zeichen zusammengelegt wurden, um die Sprache der Wikinger zu vereinfachen. Hier sind die Runen des jüngeren Futhark:
+
+| Rune  | Name     | Bedeutung                  |
+|-------|----------|----------------------------|
+| ᚠ    | Fehu     | Wohlstand, Reichtum        |
+| ᚢ    | Uruz     | Stärke, Vitalität          |
+| ᚦ    | Thurisaz | Schutz, Macht der Giganten |
+| ᚬ    | Ansuz    | Göttliche Inspiration      |
+| ᚱ    | Raido    | Reisen, Bewegung           |
+| ᚴ    | Kenaz    | Wissen, Kreativität        |
+| ᚼ    | Hagalaz  | Veränderung, Herausforderungen |
+| ᚾ    | Naudhiz  | Notwendigkeit, Ausdauer    |
+| ᛁ    | Isa      | Ruhe, Konzentration        |
+| ᛅ    | Jera     | Jahreskreis, Ernte         |
+| ᛋ    | Sowilo   | Erfolg, Sonne              |
+| ᛏ    | Tiwaz    | Ehre, Gerechtigkeit        |
+| ᛒ    | Berkano  | Wachstum, Geburt           |
+| ᛘ    | Ehwaz    | Partnerschaft, Fortschritt |
+| ᛚ    | Laguz    | Wasser, Intuition          |
+| ᛦ    | Ingwaz   | Fruchtbarkeit, Potenzial   |
+
+Das jüngere Futhark wurde in zwei Varianten unterteilt: das **langzweigige Futhark**, das in Steininschriften verwendet wurde, und das **kurzzweigige Futhark**, das für den Alltag und auf Holz genutzt wurde.
+
+---
+
+### **Das angelsächsische Futhorc**
+Das angelsächsische Futhorc ist eine Erweiterung des älteren Futhark und wurde von den Angelsachsen in England und Friesland verwendet (ca. 5.–11. Jahrhundert). Es umfasst bis zu **33 Runen**, da neue Zeichen hinzugefügt wurden, um die sich entwickelnde Sprache besser abzubilden. Hier sind einige der zusätzlichen Runen:
+
+| Rune  | Name     | Bedeutung                  |
+|-------|----------|----------------------------|
+| ᚪ    | Ac       | Eiche, Stärke              |
+| ᚫ    | Æsc      | Esche, Schutz              |
+| ᚣ    | Yr       | Bogen, Geschicklichkeit    |
+| ᛠ    | Ear      | Erde, Tod                  |
+| ᛡ    | Ior      | Wasserwesen, Wandel        |
+
+Das Futhorc war besonders flexibel und wurde für Inschriften auf Waffen, Schmuck und anderen Gegenständen verwendet.
+
+---
+
 ### ** Rezept für das Gehirn-stärkende Elixier**
 
 #### **Zutaten:**
