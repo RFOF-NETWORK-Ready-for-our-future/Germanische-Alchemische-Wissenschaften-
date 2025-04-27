@@ -4,33 +4,9 @@ Germanische &amp; Alchemische Elexiere Pflanzen Kunde und vieles mehr wie Runen 
 
 
 Germanische & Alchemische Wissenschaften (B.1)
----
-### ** Futhark (bestehend aus 24 Zeichen) **
-Rune Name Bedeutung
-ᚠ.   Fehu.   Wohlstand, Reichtum
-ᚢ.   Uruz.   Stärke, Vitalität
-ᚦ.    Thurisaz Schutz, Macht der Giganten
-ᚨ.    Ansuz.  Göttliche Inspiration.
-ᚱ.    RaidoReisen, Bewegung
-ᚲ.    KenazWissen, Kreativität 
-ᚷ.   Gebo Geschenk, Partnerschaft
-ᚹ.    Wunjo.    Freude, Harmonie
-ᚺ.   Hagalaz.   Veränderung, Herausforderungen
-ᚾ.    Naudhiz.   Notwendigkeit, Ausdauer
-ᛁ.     IsaRuhe, Konzentration
-ᛃ.     Jera.    Jahreskreis, Ernte
-ᛇ.    Eihwaz.    Schutz, Transformation
-ᛈ.     Pertho.      Schicksal, Geheimnis
-ᛉ.    Algiz.   Schutz, Verbindung zu den Göttern
-ᛋ.    Sowilo.   Erfolg, Sonne
-ᛏ.     Tiwaz.    Ehre, Gerechtigkeit
-ᛒ.     Berkano.     Wachstum, Geburt
-ᛖ.     Ehwaz.   Partnerschaft, Fortschritt
-ᛗ.     Mannaz.   Menschheit, Gemeinschaft
-ᛚ.      Laguz.  Wasser, Intuition
-ᛜ.      Ingwaz.  Fruchtbarkeit, Potenzial
-ᛞ.      Dagaz.    Tageslicht, Klarheit
-ᛟ.      Othala.  Heimat, Erbe
+
+
+--
 
 
 Runen der germanischen Mythologie und des älteren Futhark, ihre Bedeutungen und sogar ihre symbolischen oder magischen Anwendungen. Die Runenschrift war ein heiliges Schriftsystem und wurde sowohl für die Kommunikation als auch für spirituelle Zwecke verwendet.
