@@ -5,8 +5,10 @@ Germanische &amp; Alchemische Elexiere Pflanzen Kunde und vieles mehr wie Runen 
 
 Germanische & Alchemische Wissenschaften (B.1)
 ---
+### ** Futhark (bestehend aus 24 Zeichen) **
+RuneNameBedeutungᚠFehuWohlstand, ReichtumᚢUruzStärke, VitalitätᚦThurisazSchutz, Macht der GigantenᚨAnsuzGöttliche InspirationᚱRaidoReisen, BewegungᚲKenazWissen, KreativitätᚷGeboGeschenk, PartnerschaftᚹWunjoFreude, HarmonieᚺHagalazVeränderung, HerausforderungenᚾNaudhizNotwendigkeit, AusdauerᛁIsaRuhe, KonzentrationᛃJeraJahreskreis, ErnteᛇEihwazSchutz, TransformationᛈPerthoSchicksal, GeheimnisᛉAlgizSchutz, Verbindung zu den GötternᛋSowiloErfolg, SonneᛏTiwazEhre, GerechtigkeitᛒBerkanoWachstum, GeburtᛖEhwazPartnerschaft, FortschrittᛗMannazMenschheit, GemeinschaftᛚLaguzWasser, IntuitionᛜIngwazFruchtbarkeit, PotenzialᛞDagazTageslicht, KlarheitᛟOthalaHeimat, Erbe
 
-### **Ergänztes Rezept für das Gehirn-stärkende Elixier**
+### ** Rezept für das Gehirn-stärkende Elixier**
 
 #### **Zutaten:**
 - **Süßholz (ganze Stücke)**: Ca. 5–7 g (stressreduzierend, vitalisierend)  
