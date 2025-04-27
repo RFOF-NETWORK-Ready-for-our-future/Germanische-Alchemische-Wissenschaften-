@@ -10,6 +10,190 @@ Die germanische Mythologie ist eine reiche und facettenreiche Sammlung von Gesch
 
 kapitel -> 1.1
 Die Welt besteht aus neun unterschiedlichen Welten, die alle durch den Weltenbaum **Yggdrasil** miteinander verbunden sind. Yggdrasil ist der zentrale und heilige Baum der germanischen Mythologie. Seine Zweige erstrecken sich über alle Welten, und seine Wurzeln reichen tief in die geheimnisvollen Bereiche der Existenz. Hier ist eine umfassende Übersicht:
+Die germanische Mythologie ist reich an Göttern, Naturwesen, Geistern und lokalen Gottheiten.
+1. **Wodan/Odin** – Der Hauptgott, Gott der Weisheit, Magie, Krieg und Tod.
+2. **Thor/Donar** – Gott des Donners, des Schutzes und der Stärke.
+3. **Frigg/Frija** – Göttin der Ehe, Liebe und Mutterschaft.
+4. **Freyr/Fro** – Gott der Fruchtbarkeit, des Friedens und des Wohlstandes.
+5. **Freya/Freyja** – Göttin der Liebe, Schönheit und Fruchtbarkeit.
+6. **Tyr/Tiwaz** – Gott des Krieges und der Ehre.
+7. **Loki** – Ein listiger und oft zwielichtiger Gott, bekannt für Intrigen.
+8. **Balder/Baldr** – Gott der Reinheit, Schönheit und des Lichts.
+9. **Njord/Nerthus** – Gott des Meeres und des Wohlstandes.
+10. **Hel** – Göttin der Unterwelt und der Toten.
+11. **Eostre/Ostara** – Göttin des Frühlings und der Erneuerung.
+13. **Forseti** – Gott der Gerechtigkeit und Schlichtung.  
+14. **Bragi** – Gott der Dichtkunst und Weisheit.  
+15. **Idunn** – Göttin der Jugend und Hüterin der goldenen Äpfel.  
+16. **Sif** – Göttin der Fruchtbarkeit, Ehe und Familie (Thors Frau).  
+17. **Skadi** – Göttin des Winters, der Jagd und des Skifahrens.  
+18. **Nanna** – Göttin der Treue und Baldrs Gemahlin.  
+19. **Heimdall** – Wächter der Götter und Hüter der Regenbogenbrücke Bifröst.  
+20. **Ran** – Göttin des Meeres und der Stürme.  
+21. **Aegir** – Gott des Meeres und Gastgeber der Götterfeste.  
+22. **Hödr** – Blinder Gott, der versehentlich Baldr tötete.  
+23. **Vidar** – Gott der Rache und Stille, bekannt für seine Stärke.  
+24. **Vili** – Bruder von Odin und Mitgestalter der Welt.  
+25. **Ve** – Ein weiterer Bruder Odins, der ebenfalls bei der Schöpfung half.  
+26. **Nerthus** – Eine frühe Göttin der Fruchtbarkeit und des Friedens.  
+27. **Eir** – Göttin der Heilkunst.  
+28. **Gefjon** – Göttin der Jungfräulichkeit und des Ackerbaus.  
+29. **Sol** – Personifikation der Sonne.  
+30. **Mani** – Personifikation des Mondes.  
+31. **Surt** – Feuerriese und Zerstörer der Welt in Ragnarök.  
+32. **Ymir** – Ur-Riese, aus dessen Körper die Welt geformt wurde.  
+33. **Borr** – Vater von Odin, Vili und Ve.  
+34. **Hodmimir** – Eine Figur, die die Flucht vor Ragnarök ermöglicht.  
+35. **Mimir** – Hüter des Brunnens der Weisheit.  
+36. **Audhumla** – Urrind, die den Riesen Ymir ernährte.  
+37. **Jörmungandr** – Weltenschlange, Feind Thors.  
+38. **Fenrir** – Wolf, der Odin in Ragnarök verschlingen wird.  
+39. **Skoll** – Wolf, der die Sonne jagt.  
+40. **Hati** – Wolf, der den Mond jagt.  
+41. **Einherjar** – Gefallene Krieger, die in Walhall trainieren.  
+42. **Valkyren** – Weibliche Wesen, die gefallene Krieger nach Walhall bringen.  
+43. **Lofn** – Göttin der verbotenen Liebe.  
+44. **Var** – Göttin der Eide und Bündnisse.  
+45. **Saga** – Göttin des Geschichtenerzählens und der Weisheit.  
+46. **Hlin** – Göttin des Schutzes.  
+47. **Sjöfn** – Göttin der Liebe.  
+48. **Vör** – Göttin der Weisheit und Neugier.  
+49. **Syn** – Göttin der Verteidigung und der Türen.  
+50. **Jörd** – Personifikation der Erde und Odins Gemahlin.  
+51. **Modi** – Sohn von Thor, Gott der Wut.  
+52. **Magni** – Sohn von Thor, Gott der Stärke.  
+53. **Thrud** – Tochter von Thor, Göttin der Macht.  
+54. **Garm** – Wächterhund der Unterwelt.  
+55. **Eggther** – Hirte der Riesen.  
+56. **Gullveig/Heid** – Göttin der Magie, Ursprung des Konflikts zwischen Göttern.  
+57. **Norns** – Schicksalsweberinnen (Urd, Verdandi, Skuld).  
+58. **Hrungnir** – Riese, der von Thor besiegt wurde.  
+59. **Thrym** – Riese, der Thors Hammer stahl.  
+60. **Angrboda** – Riesin und Mutter von Fenrir, Jörmungandr und Hel.  
+61. **Svartálfar** – Dunkelalben, Kreaturen der Unterwelt.  
+62. **Álfar** – Lichtalben, Wesen der Natur und Magie.  
+63. **Hyndla** – Seherin und Hüterin des Wissens.  
+64. **Gullinbursti** – Goldschwein des Freyr.  
+65. **Sleipnir** – Odins achtbeiniges Pferd.  
+66. **Huginn und Muninn** – Odins Raben, Symbol für Gedanken und Erinnerung.  
+67. **Eikthyrnir** – Hirsch in Walhall, von dessen Geweih Wasser strömt.  
+68. **Andhrímnir** – Koch in Walhall, bereitet das Schwein Saehrímnir zu.  
+69. **Ratatoskr** – Eichhörnchen, das Nachrichten über Yggdrasil trägt.  
+70. **Skirnir** – Freyrs Diener und Bote.  
+71. **Glut** – Göttin des Feuers.  
+72. **Ranveig** – Beschützerin der Fischer.  
+73. **Surtur** – Herrscher des Muspelheims.  
+74. **Gná** – Botin Friggs.  
+75. **Rindr** – Mutter von Vali, Sohn Odins.  
+76. **Austri** – Zwerg, der die Weltstützen des Ostens hält.  
+77. **Vestri** – Zwerg, der die Weltstützen des Westens hält.  
+78. **Sundri** – Zwerg, der die Weltstützen des Südens hält.  
+79. **Nordri** – Zwerg, der die Weltstützen des Nordens hält.  
+80. **Brokk und Eitri** – Zwergenschmiede, die Mjolnir schufen.  
+81. **Hervör alvitr** – Magische Seherin.  
+82. **Kvasir** – Gott der Weisheit, erschaffen aus Speichel der Götter.  
+83. **Fafnir** – Drache, einst ein Zwerg.  
+84. **Regin** – Bruder Fafnirs, Meisterschmied.  
+85. **Grani** – Pferd Sigurds, ein Nachfahre Sleipnirs.  
+86. **Brynhildr** – Walküre und Heldin der Sagen.  
+87. **Gutrune** – Figur aus den Heldensagen.  
+88. **Sigyn** – Lokis loyale Gemahlin.  
+89. **Hynde** – Urahne, weise in Sagen.  
+90. **Bölthorn** – Urwesen, Großvater Odins.  
+91. **Vafthrudnir** – Riese, weise im Schicksal der Götter.  
+92. **Hyrrokkin** – Riesin mit Kraft Thors.  
+93. **Elli** – Alte Frau, die Thor im Ringen besiegte.  
+94. **Hræsvelgr** – Riese in Adlergestalt, Ursprung der Winde.  
+95. **Fjölnir** – König und Sohn von Freyr.  
+96. **Landvaettir** – Schutzgeister des Landes.  
+97. **Dvalin** – Zwerg, Meister des Handwerks.  
+98. **Alfrigg** – Zwerg, Erbauer Freyjas Halskette Brisingamen.  
+99. **Sindri** – Zwerg, einer der geschicktesten Schmiede.  
+100. **Hreidmar** – König der Zwerge und Herr von Fafnir und Regin.
+101. **Völund/Weyland** – Meisterschmied und Halbgott.  
+102. **Gersemi** – Tochter von Freyja, Symbol von Reichtum.  
+103. **Hnoss** – Zweite Tochter von Freyja, ebenfalls Symbol von Schönheit.  
+104. **Andvari** – Zwerg, Hüter eines magischen Rings.  
+105. **Sindre** – Schöpfer von Odins Speer Gungnir.  
+106. **Hrungnir** – Riese und Feind von Thor.  
+107. **Karl** – Repräsentation des Bauernstandes.  
+108. **Thrivaldi** – Riese mit neun Köpfen.  
+109. **Fornjot** – Uralter Gott des Windes.  
+110. **Logi** – Gott des Feuers.  
+111. **Hler** – Gott der Stille des Meeres.  
+112. **Garmr** – Wächterhund der Unterwelt.  
+113. **Delling** – Gott der Morgenröte.  
+114. **Aurvandil** – Sternheld in den Legenden.  
+115. **Svafnir** – Symbol des Wissens und der Magie.  
+116. **Hreidmar** – König der Zwerge.  
+117. **Fjölnir** – Sohn von Freyr und König in Schweden.  
+118. **Lyngvi** – Insel, auf der Fenrir gefesselt wurde.  
+119. **Asynjur** – Gruppe von Göttinnen.  
+120. **Vanir** – Ältere Gruppe von Fruchtbarkeitsgöttern.  
+121. **Muspel** – Feuerriese, Symbol der Zerstörung.  
+122. **Gjallarhorn** – Horn Heimdalls.  
+123. **Geirrod** – Riese und Gegner Thors.  
+124. **Grimnir** – Einer von Odins vielen Namen.  
+125. **Vidblain** – Eine Schicht von Yggdrasil.  
+126. **Bolthorn** – Vater von Bestla, der Mutter Odins.  
+127. **Bestla** – Mutter von Odin.  
+128. **Gunnlod** – Tochter des Riesen Suttungr.  
+129. **Suttungr** – Hüter des Metes der Dichtung.  
+130. **Ratatoskr** – Botschafter des Baumes Yggdrasil.  
+131. **Thrudheim** – Wohnsitz Thors.  
+132. **Jarnsaxa** – Mutter von Magni, Sohn Thors.  
+133. **Skeggöld** – Göttin des Krieges.  
+134. **Hervor** – Magische Seherin.  
+135. **Gestumblindi** – Weise in den Sagen.  
+136. **Harbard** – Rätselhafter Name Odins.  
+137. **Lif und Lifthrasir** – Überlebende von Ragnarök.  
+138. **Saehrimnir** – Magisches Schwein in Walhall.  
+139. **Kári** – Gott des Windes.  
+140. **Jörd** – Personifikation der Erde.  
+141. **Grund** – Göttin der Tiefe.  
+142. **Ran und Aegir** – Meeresgötter.  
+143. **Sif und Thrud** – Göttinnen des Schutzes.  
+144. **Alviss** – Magischer Zwerg.  
+145. **Darri** – Kreatur des Schlafs.  
+146. **Sol und Mani** – Sonne und Mond.  
+147. **Tanngrisnir und Tanngnjostr** – Ziegen Thors.  
+148. **Fossegrim** – Wassergeist.  
+149. **Ranveig** – Beschützerin des Meeres.  
+150. **Birchfrau** – Göttin des Waldes.  
+151. **Verdandi** – Schicksalsweberin.  
+152. **Skuld und Urd** – Göttinnen der Zeit.  
+153. **Angrboda** – Mutter wichtiger Wesen wie Fenrir.  
+154. **Ivaldi** – Figur in Zwergenlegenden.  
+155. **Kölniswandrer** – Halbgott der Nebel.  
+156. **Nökk** – Wassergeist.  
+157. **Hamingja** – Schutzgeist.  
+158. **Alfheim** – Heimat der Lichtelfen.  
+159. **Svartalfheim** – Heimat der Dunkelalben.  
+160. **Muspelheim** – Reich der Feuerriesen.  
+161. **Helheim** – Reich der Toten.  
+162. **Midgard** – Reich der Menschen.  
+163. **Wanenheim** – Reich der Vanen.  
+164. **Asgard** – Reich der Asen.  
+165. **Bifröst** – Regenbogenbrücke.  
+166. **Mjölnir** – Magischer Hammer Thors.  
+167. **Gungnir** – Odins Speer.  
+168. **Nidhöggr** – Drache von Yggdrasil.  
+169. **Hugin und Munin** – Gedanken und Erinnerungen.  
+170. **Ymir und Bergelmir** – Riesen der Schöpfung.  
+171. **Fjörgynn und Fjörgyn** – Fruchtbarkeitsgötter.  
+172. **Audhumbla** – Magisches Urwesen.  
+173. **Yggdrasil** – Weltenbaum.  
+174. **Göl** – Göttin der Goldensymbolik.  
+175. **Fenrir** – Wolf von Ragnarök.  
+176. **Jörmungandr** – Weltenschlange.  
+177. **Thrymr** – Symbol des Unverständnisses.  
+178. **Ragnar** – Ur-Figur der Mythen.  
+179. **Ongentra** – Botin der Götter.  
+180. **Hundgrand** – Wächter.  
+181. **Sigurd, Gründer** – Gefährter.  
+182. **Heilsinger** - Tragkraftdämon.  
+183. **Darius** - Glaubensmut.  
+184. **Wotan zu Wachsen. Got. Halb-Mot oder halb-pagan Mischen! ** !!
 
 3 Runen Alphabete -> 1.2 - 1.4
 
