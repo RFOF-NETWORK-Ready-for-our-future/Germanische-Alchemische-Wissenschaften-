@@ -6,7 +6,31 @@ Germanische &amp; Alchemische Elexiere Pflanzen Kunde und vieles mehr wie Runen 
 Germanische & Alchemische Wissenschaften (B.1)
 ---
 ### ** Futhark (bestehend aus 24 Zeichen) **
-RuneNameBedeutungᚠFehuWohlstand, ReichtumᚢUruzStärke, VitalitätᚦThurisazSchutz, Macht der GigantenᚨAnsuzGöttliche InspirationᚱRaidoReisen, BewegungᚲKenazWissen, KreativitätᚷGeboGeschenk, PartnerschaftᚹWunjoFreude, HarmonieᚺHagalazVeränderung, HerausforderungenᚾNaudhizNotwendigkeit, AusdauerᛁIsaRuhe, KonzentrationᛃJeraJahreskreis, ErnteᛇEihwazSchutz, TransformationᛈPerthoSchicksal, GeheimnisᛉAlgizSchutz, Verbindung zu den GötternᛋSowiloErfolg, SonneᛏTiwazEhre, GerechtigkeitᛒBerkanoWachstum, GeburtᛖEhwazPartnerschaft, FortschrittᛗMannazMenschheit, GemeinschaftᛚLaguzWasser, IntuitionᛜIngwazFruchtbarkeit, PotenzialᛞDagazTageslicht, KlarheitᛟOthalaHeimat, Erbe
+Rune Name Bedeutung
+ᚠ.   Fehu.   Wohlstand, Reichtum
+ᚢ.   Uruz.   Stärke, Vitalität
+ᚦ.    Thurisaz Schutz, Macht der Giganten
+ᚨ.    Ansuz.  Göttliche Inspiration.
+ᚱ.    RaidoReisen, Bewegung
+ᚲ.    KenazWissen, Kreativität 
+ᚷ.   Gebo Geschenk, Partnerschaft
+ᚹ.    Wunjo.    Freude, Harmonie
+ᚺ.   Hagalaz.   Veränderung, Herausforderungen
+ᚾ.    Naudhiz.   Notwendigkeit, Ausdauer
+ᛁ.     IsaRuhe, Konzentration
+ᛃ.     Jera.    Jahreskreis, Ernte
+ᛇ.    Eihwaz.    Schutz, Transformation
+ᛈ.     Pertho.      Schicksal, Geheimnis
+ᛉ.    Algiz.   Schutz, Verbindung zu den Göttern
+ᛋ.    Sowilo.   Erfolg, Sonne
+ᛏ.     Tiwaz.    Ehre, Gerechtigkeit
+ᛒ.     Berkano.     Wachstum, Geburt
+ᛖ.     Ehwaz.   Partnerschaft, Fortschritt
+ᛗ.     Mannaz.   Menschheit, Gemeinschaft
+ᛚ.      Laguz.  Wasser, Intuition
+ᛜ.      Ingwaz.  Fruchtbarkeit, Potenzial
+ᛞ.      Dagaz.    Tageslicht, Klarheit
+ᛟ.      Othala.  Heimat, Erbe
 
 ### ** Rezept für das Gehirn-stärkende Elixier**
 
