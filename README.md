@@ -1346,6 +1346,17 @@ Um die Rune zu "aktivieren", könntest du sie als Kunstwerk gestalten (z. B. zei
 4. **Honig und Olivenöl:** Harmonisieren die Bioökonomie des Körpers und fördern die Nährstoffaufnahme.  
 5. **Essig und Zitrone:** Helfen bei der Ausleitung von Schadstoffen und unterstützen die langfristige Gesundheit.
 
+#DDEUGGP bildete die Grundlage für die gesamte spirituelle und gesellschaftliche Entwicklung vieler europäischer Völker. Oft wird fälschlicherweise behauptet, die nordischen Wikinger hätten eine eigene, separate Tradition gehabt, obwohl ihre Glaubensvorstellungen direkt aus der germanischen Kultur hervorgingen. Die Germanen verehrten bereits seit Jahrtausenden Odin, Thor, Freyr und die übrigen Götter, und die Wikinger hielten diesen Glauben weiterhin aufrecht.
+
+Erst durch die Christianisierung, insbesondere durch Karl den Großen und seine jahrzehntelangen Feldzüge gegen die Sachsen, kam es zum massiven Rückgang des germanischen Glaubens. Die letzten germanischen Krieger, darunter die Anhänger von Widukind, legten nach langem Widerstand ihre Waffen nieder. Die gewaltsame Zerstörung vieler heiliger Stätten – darunter die Donnareiche und andere bedeutende Orte des germanischen Glaubens – ließ viele an ihrer spirituellen Tradition zweifeln und führte dazu, dass ganze Stämme zum Christentum übertraten.
+
+Während die Christianisierung voranschritt, begann die Kirche, große Teile der historischen Überlieferungen und Mythen neu zu schreiben. Da die meisten Bücher jener Zeit von christlichen Mönchen verfasst wurden, scheint es, als ob bewusst die ursprüngliche germanische Geschichte verfälscht wurde. Indem die nordischen Völker erst nach Christus als „eigenständig“ dargestellt wurden, wurde der germanische Ursprung ihres Glaubens verschleiert, um sicherzustellen, dass die neue christliche Weltordnung unangefochten blieb.
+
+Doch trotz dieser Versuche, die germanischen Wurzeln auszulöschen, leben die Götter bis heute weiter – sei es in der modernen Popkultur wie Marvels Thor, Odin und Freyr oder durch historisch inspirierte Serien wie Vikings. Es ist an der Zeit, die wahre Geschichte der Germanen als ungebrochene und fortwährende Kultur zu würdigen und die falsche Trennung zwischen Nordmännern und Germanen zu hinterfragen.
+
+Was denkt ihr darüber? Schreibt eure Meinung in die Kommentare – welche Filme oder Darstellungen haben euch positiv oder negativ beeindruckt?
+
+Hier sind meine Fakten (Beweise)
 
 Hier ist meine (J.Koch) **Chronologie der 5000 Jahre vor Christi Geburt**, in der für jedes der **50 Jahrhunderte** mindestens ein bedeutender historischer Fakt enthalten ist:
 
