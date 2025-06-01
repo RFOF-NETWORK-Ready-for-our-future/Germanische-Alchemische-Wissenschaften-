@@ -6,6 +6,82 @@ Hier ist der umfassende historische Text, der die **germanische Geschichte** von
 
 ---
 
+Germanische & Alchemistische Wissenschaften 
+Erforschung von Archäologischen nachweisen und kulturellen verbindungen der Germanien bzw wie weit in die letzten 
+7 Millionen Jahren die Kultur (Yggdrasil oder auch die Scharmanisch-Germanische ansicht von ultimativen Oben mitte unten) der Germanen zurück reicht (reichen kann/könnte):
+700000 V.Christi
+600000 V.Christi
+500000 V.Christi
+400000 V.Christi
+300000 V.Christi
+200000 V.Christi
+100000 V.Christi
+
+---
+90000 V.Christi
+
+80000 V.Christi
+
+70000 V.Christi
+
+60000 V.Christi
+
+50000 V.Christi
+
+40000 V.Christi
+
+30000 V.Christi
+
+20000 V.Christi
+
+10000 V.Christi
+
+---
+
+9000 V.Christi
+
+8000 V.Christi
+
+7000 V.Christi
+
+6000 V.Christi
+
+5000 V.Christi
+---
+
+In der germanischen Mythologie haben Menschen und Tiere eine enge und bedeutende Beziehung, oft in Form von Tiersymbolik, Verwandlungen und Gemeinschaft. Tiere werden als Götterbegleiter, Vorboten oder sogar als Verbündete dargestellt, und Menschen können sich in Tiere verwandeln, was eine Metamorphose der Seele widerspiegelt. 
+Tiersymbolik und Verwandlungen:
+Raben:
+Odin, der oberste Gott, hatte Raben als Gefährten, die als Spione und Nachrichtenboten dienten. 
+Wölfe:
+Wölfe spielen eine wichtige Rolle, oft als Vorboten des Todes oder als Begleiter von Helden und Göttern. 
+Pferde:
+Das Pferd ist ein sakrales Tier, das mit Gottheit und Macht verbunden ist, oft als Reittier von Göttern oder als Opfertier verwendet. 
+Verwandlungen:
+Menschen können in Tiere verwandelt werden, entweder als Strafe, durch Zauberei oder als Teil eines rituellen Prozesses. 
+Ask und Embla:
+Die beiden ersten Menschen werden in der nordischen Mythologie als von einem Baum geschaffen dargestellt, was auf eine enge Beziehung zwischen Mensch und Natur hindeutet. 
+Tierische Verbündete und Götterbegleiter:
+Odin und seine Wölfe Geri und Freki:
+Odin hatte zwei Wölfe, die ihn auf seinen Reisen begleiteten und die die Essenz der Jagd und des Krieges verkörperten. 
+Thor und sein Hammer Mjölnir:
+Thor, der Gott des Donners, hatte einen Hammer, der in der Lage war, die Erde zu erschüttern, und der häufig mit dem Tierreich in Verbindung gebracht wurde. 
+Mensch und Tier in der Mythologie:
+Yggdrasil:
+Der Weltenbaum Yggdrasil verbindet Himmel, Erde und Unterwelt und wird von verschiedenen Tieren wie Ratten, Eulen und einem Hahn bewacht. 
+Chimären:
+Mischwesen aus Mensch und Tier, wie Nixen oder Kentauren, sind in der germanischen Mythologie selten, aber sie existieren. 
+Fabelwesen:
+Fabelwesen wie Drachen, Kobolde und Elfen spielen in der germanischen Mythologie eine Rolle und sind oft mit dem Tierreich verbunden. 
+Zusammenfassend lässt sich sagen, dass die germanische Mythologie eine enge und vielfältige Beziehung zwischen Mensch und Tier darstellt, in der Tiere nicht nur einfache Begleiter oder Symbole sind, sondern auch als Wesen mit eigener Bedeutung und Macht in der Welt der Mythen und Sagen wirken.
+
+
+
+---
+
+
+
+
 # **Die ununterbrochene Geschichte der Germanen: 5000 v. Chr. bis heute**  
 
 Die Germanen sind eines der ältesten und kontinuierlich existierenden Völker Europas. Ihre Geschichte reicht nachweislich über **5000 Jahre vor Christus** zurück, und trotz zahlreicher Kriege, kultureller Einflüsse und religiöser Wandlungen blieb ihre Mythologie und Tradition erhalten – wenn auch oft verfälscht oder vereinnahmt.  
