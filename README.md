@@ -140,8 +140,8 @@ In der Renaissance und Romantik beginnt eine **Rückkehr zur germanischen Mythol
 ## **1900 – 1945 n. Chr.: Germanische Symbolik wird missbraucht**  
 Die dunkle Phase der Geschichte: Germanische Mythologie wird politisch instrumentalisiert.  
 
-- Runen und Symbole werden verzerrt verwendet.  
-- Viele ursprüngliche Bedeutungen werden verändert oder aus dem historischen Kontext gerissen.  
+- Runen und Symbole werden verzerrt verwendet. 
+- Viele ursprüngliche Bedeutungen werden verändert oder aus dem historischen Kontext gerissen.  (*¹!)
 
 ## **1945 – 2000 n. Chr.: Wiederherstellung der echten germanischen Geschichte**  
 Nach dem Zweiten Weltkrieg beginnt eine wissenschaftliche Rekonstruktion der **wirklichen germanischen Vergangenheit**.  
@@ -1707,3 +1707,23 @@ Für die politische Agenda der @DDEUGGP bedeutet dies, dass wir uns für eine Bi
 Die Stärke unserer germanischen Vorfahren lag in ihrer Gemeinschaft und ihrem Respekt vor der Natur. Diese Werte wollen wir in die moderne Politik übertragen. Innovation und Technologie, basierend auf wissenschaftlicher Erkenntnis und ethischen Prinzipien, werden uns helfen, eine Gesellschaft zu gestalten, die sowohl unserem Erbe gerecht wird als auch zukunftsfähig ist. Der von Satoramy maßgeblich vorangetriebene Fortschritt im Bereich der Quantentechnologie und des Magnetmotors sind hierfür nur die ersten wegweisenden Beispiele.
 
 Es ist an der Zeit, dass Deutschland sich seiner wahren Geschichte bewusst wird und aus dieser Erkenntnis neue Kraft schöpft – für ein friedliches Miteinander in Europa und der Welt."
+
+
+
+
+★<-Verzeichnis:
+*¹->Der Begriff "Hitlers Tausendjähriges Reich" bezieht sich auf die nationalsozialistische Propaganda für das "Großdeutsches Reich", das eine Laufzeit von tausend Jahren haben sollte. Dieses Reich war eine von Hitler angestrebte Diktatur, die allerdings nur 12 Jahre, von 1933 bis 1945, bestand und in einem vollständigen militärischen und politischen Zusammenbruch endete. 
+Hintergrund und Propaganda
+Dauer:
+Das "Tausendjährige Reich" war eine Vorstellung Hitlers, die von seinem NS-Regime propagiert wurde, um eine militärisch geführte, totalitäre und rassistische Herrschaft zu etablieren, die theoretisch Tausend Jahre dauern sollte. 
+NS-Propaganda:
+Diese Propaganda diente dazu, die Bevölkerung ideologisch zu beeinflussen, die Einheit der Nation unter Hitler zu fordern und die Idee einer ewigen deutschen Herrschaft zu verbreiten. 
+Begriffe:
+Der Begriff "Drittes Reich" bezieht sich auf die Zeit von 1933 bis 1945, die als die dritte Form des deutschen Kaisertums bezeichnet wurde. 
+Realität 
+Dauer:
+Das "Tausendjährige Reich" endete jedoch bereits 1945 mit dem Ende des Zweiten Weltkriegs und dem Zusammenbruch Deutschlands, was eine reale Dauer von 12 Jahren bedeutet.
+Folgen:
+Diese Zeit war durch Krieg, Unterdrückung, Völkermord und die Zerstörung Europas geprägt und hinterließ eine verheerende Spur von Leid und Verwüstung.
+
+*²->
