@@ -9,6 +9,7 @@ Hier ist der umfassende historische Text, der die **germanische Geschichte** von
 Germanische & Alchemistische Wissenschaften 
 Erforschung von Archäologischen nachweisen und kulturellen verbindungen der Germanien bzw wie weit in die letzten 
 7 Millionen Jahren die Kultur (Yggdrasil oder auch die Scharmanisch-Germanische ansicht von ultimativen Oben mitte unten) der Germanen zurück reicht (reichen kann/könnte):
+```
 700000 V.Christi
 600000 V.Christi
 500000 V.Christi
@@ -47,6 +48,7 @@ Erforschung von Archäologischen nachweisen und kulturellen verbindungen der Ger
 6000 V.Christi
 
 5000 V.Christi
+```
 ---
 
 In der germanischen Mythologie haben Menschen und Tiere eine enge und bedeutende Beziehung, oft in Form von Tiersymbolik, Verwandlungen und Gemeinschaft. Tiere werden als Götterbegleiter, Vorboten oder sogar als Verbündete dargestellt, und Menschen können sich in Tiere verwandeln, was eine Metamorphose der Seele widerspiegelt. 
